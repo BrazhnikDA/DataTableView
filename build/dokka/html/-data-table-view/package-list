@@ -1,0 +1,20 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.harman.viewtable////PointingToDeclaration/-data-table-view/com.harman.viewtable/index.html
+$dokka.location:com.harman.viewtable//main/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/main.html
+$dokka.location:com.harman.viewtable/DictionaryData///PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/index.html
+$dokka.location:com.harman.viewtable/DictionaryData/DictionaryData/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/-dictionary-data.html
+$dokka.location:com.harman.viewtable/DictionaryData/firstMonth/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/first-month.html
+$dokka.location:com.harman.viewtable/DictionaryData/secondMonth/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/second-month.html
+$dokka.location:com.harman.viewtable/DictionaryData/valueProduct/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/value-product.html
+$dokka.location:com.harman.viewtable/DictionaryData/valueSales/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-dictionary-data/value-sales.html
+$dokka.location:com.harman.viewtable/ViewTable///PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/index.html
+$dokka.location:com.harman.viewtable/ViewTable/ViewTable/#kotlin.String/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/-view-table.html
+$dokka.location:com.harman.viewtable/ViewTable/countSubStringInString/#kotlin.String#kotlin.Char/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/count-sub-string-in-string.html
+$dokka.location:com.harman.viewtable/ViewTable/getLineSeparation/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/get-line-separation.html
+$dokka.location:com.harman.viewtable/ViewTable/joinViewHorizontal/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/join-view-horizontal.html
+$dokka.location:com.harman.viewtable/ViewTable/joinViewHorizontalChart/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/join-view-horizontal-chart.html
+$dokka.location:com.harman.viewtable/ViewTable/joinViewVertical/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/join-view-vertical.html
+$dokka.location:com.harman.viewtable/ViewTable/joinViewVerticalChart/#/PointingToDeclaration/-data-table-view/com.harman.viewtable/-view-table/join-view-vertical-chart.html
+com.harman.viewtable
+
