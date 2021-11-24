@@ -37,7 +37,7 @@ class ViewTable(command: String) {
         val formatTemplateInt = "| %-8d\t"
         val formatTemplateStr = "| %-8s\t"
 
-        outTable.append("Title tables : \tJoin (Table1 -> Table2)\n")
+        outTable.append("Title tables : \tJoin (Sales volumes -> Number of visitors)\n")
         outTable.append(getLineSeparation()); outTable.append(getLineSeparation())
         outTable.append("\n")
         outTable.append(formatTemplateStr.format("Month"))
@@ -97,7 +97,7 @@ class ViewTable(command: String) {
         val formatTemplateStr = "| %-8s\t"
 
         // Print header table
-        outTable.append("Title tables : \tJoin (Table1 -> Table2)\n")
+        outTable.append("Title tables : \tJoin (Sales volumes -> Number of visitors)\n")
         outTable.append(getLineSeparation()); outTable.append(getLineSeparation())
         outTable.append(getLineSeparation()); outTable.append(getLineSeparation())
         outTable.append(getLineSeparation()); outTable.append(getLineSeparation())
