@@ -8,8 +8,8 @@ package com.harman.viewtable
 class DictionaryData {
     // First table
     val firstMonth: List<String> = mutableListOf(
-        "Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август",
-        "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"
+        "January", "February", "March", "April", "May", "June", "July", "August",
+        "Septemb.", "October", "November", "December"
     )
     val valueSales: List<Int> = mutableListOf(
         180, 180, 180, 100, 200, 50, 250, 65, 10, 300, 225, 180
@@ -17,7 +17,8 @@ class DictionaryData {
 
     //Second table
     val secondMonth: List<String> = mutableListOf(
-        "Январь", "Февраль", "Февраль", "Март", "Март", "Март", "Август", "Ноябрь"
+        "January", "February", "February", "March", "March", "March",
+        "August", "November"
     )
 
     val valueProduct: List<Int> = mutableListOf(
