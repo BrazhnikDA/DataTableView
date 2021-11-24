@@ -19,6 +19,10 @@ Several tables of numerical data are set. Each table consists of a name, a set o
 
 ![Alt text](image/main.png)
 
+### Data for tables
+
+![Alt text](image/data.png)
+
 ### Horizontal table
 
 ![Alt text](image/table_1.png)
